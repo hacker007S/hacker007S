@@ -197,12 +197,16 @@ print(me)
 
   <img src="https://wakatime.com/badge/user/8d22e8b0-7b91-4b95-add9-e37b65f2a94d/total?style=for-the-badge" alt="Total WakaTime Hours"/>
 
-  **Weekly Breakdown:**
-  - 🐍 Python: ~40%
-  - - 📊 Jupyter: ~30%
-    - - 🔢 SQL: ~15%
-      - - 🛠️ Other: ~15%
-       
+**Weekly Breakdown:**
+
+| Language | Percentage |
+|----------|-----------|
+| 🐍 Python | ~40% |
+| 📊 Jupyter | ~30% |
+| 🔢 SQL | ~15% |
+| 🛠️ Other | ~15% |
+
+
         - </div>
 
         ---
@@ -248,7 +252,31 @@ print(me)
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/PyCode.co.uk-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pycode.co.uk)
+## 🎓 Certifications & Achievements
+
+<div align="center">
+  
+  ### Professional Certifications
+  
+  | Certification | Issuer | Date |
+  |---------------|--------|------|
+  | 🤖 **ChatGPT & Generative AI** | OpenAI / Professional Course | Jan 2025 |
+  | 🎨 **Stable Diffusion AI Image Generation** | Professional Training | Jan 2025 |
+  | 🖼️ **Advanced Computer Vision & Photography** | Professional Course | Nov 2024 |
+  | 📚 **Machine Learning & Data Science** | Udacity / Online Platform | May 2020 |
+  
+  ### Skills Demonstrated
+  ✅ Artificial Intelligence & Machine Learning  
+  ✅ Generative AI Models (ChatGPT, Stable Diffusion)  
+  ✅ Computer Vision & Image Processing  
+  ✅ Advanced Data Science & Analytics  
+  ✅ Python & Full ML Stack  
+  
+  </div>
+  
+  ---
+  
+  [![Website](https://img.shields.io/badge/PyCode.co.uk-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pycode.co.uk)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/z.khan301)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khanzahoor301)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacker007S)
