@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Zahoor%20Khan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CEO%20%40%20PyCode%20Ltd%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=16&stroke=ffffff&strokeWidth=1"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🚀+CEO+%40+PyCode+Ltd;🧠+AI+%26+Machine+Learning+Engineer;📊+Data+Scientist+%26+Visualization+Expert;💡+Building+the+Future+with+Python;🇬🇧+Based+in+London%2C+United+Kingdom" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=🚀+CEO+%40+PyCode+Ltd;🧠+AI+%26+Machine+Learning+Engineer;📊+Data+Scientist+%26+Visualization+Expert;💡+Building+the+Future+with+Python;🇬🇧+Based+in+London%2C+United+Kingdom" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CEO-PyCode%20Ltd-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -127,7 +127,19 @@ print(me)
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker007S&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=FF6B35&point=FFFFFF&area_color=00D9FF" alt="Activity Graph"/>
@@ -141,12 +153,12 @@ print(me)
 
 | Project | Description | Tech | Stars |
 |:--------|:------------|:-----|:------|
-| 🎓 [Final-Year-Project](https://github.com/hacker007S/Final-Year-Project) | Final Year Academic ML Project | Jupyter, Python | [![Stars](https://img.shields.io/github/stars/hacker007S/Final-Year-Project?style=flat-square&color=FFD700)](https://github.com/hacker007S/Final-Year-Project) |
-| 📊 [InFographics-visualization](https://github.com/hacker007S/InFographics-visualization) | Advanced data infographic dashboards | Python, Matplotlib | [![Stars](https://img.shields.io/github/stars/hacker007S/InFographics-visualization?style=flat-square&color=FFD700)](https://github.com/hacker007S/InFographics-visualization) |
-| 🤖 [Clustering_report_ADS](https://github.com/hacker007S/Clustering_report_ADS) | ML clustering algorithms & analysis | Python, Scikit-Learn | [![Stars](https://img.shields.io/github/stars/hacker007S/Clustering_report_ADS?style=flat-square&color=FFD700)](https://github.com/hacker007S/Clustering_report_ADS) |
-| 📉 [VisualizationAssignment](https://github.com/hacker007S/VisualizationAssignment) | Data visualization coursework | Python | [![Stars](https://img.shields.io/github/stars/hacker007S/VisualizationAssignment?style=flat-square&color=FFD700)](https://github.com/hacker007S/VisualizationAssignment) |
-| 📋 [visualization_report](https://github.com/hacker007S/visualization_report) | Comprehensive visualization report | Python | [![Stars](https://img.shields.io/github/stars/hacker007S/visualization_report?style=flat-square&color=FFD700)](https://github.com/hacker007S/visualization_report) |
-| 📝 [My-report](https://github.com/hacker007S/My-report) | Data analysis and reporting | Jupyter Notebook | [![Stars](https://img.shields.io/github/stars/hacker007S/My-report?style=flat-square&color=FFD700)](https://github.com/hacker007S/My-report) |
+| 🎓 [Final-Year-Project](https://github.com/hacker007S/Final-Year-Project) | Churn Prediction with ML | Jupyter, Scikit-Learn | [![Stars](https://img.shields.io/github/stars/hacker007S/Final-Year-Project?style=flat-square&color=FFD700)](https://github.com/hacker007S/Final-Year-Project) |
+| 📊 [InFographics-visualization](https://github.com/hacker007S/InFographics-visualization) | Advanced data infographics | Python, Matplotlib | [![Stars](https://img.shields.io/github/stars/hacker007S/InFographics-visualization?style=flat-square&color=FFD700)](https://github.com/hacker007S/InFographics-visualization) |
+| 🤖 [Clustering_report_ADS](https://github.com/hacker007S/Clustering_report_ADS) | KMeans clustering analysis | Python, Scikit-Learn | [![Stars](https://img.shields.io/github/stars/hacker007S/Clustering_report_ADS?style=flat-square&color=FFD700)](https://github.com/hacker007S/Clustering_report_ADS) |
+| 📉 [VisualizationAssignment](https://github.com/hacker007S/VisualizationAssignment) | Data visualization coursework | Python, Plotly | [![Stars](https://img.shields.io/github/stars/hacker007S/VisualizationAssignment?style=flat-square&color=FFD700)](https://github.com/hacker007S/VisualizationAssignment) |
+| 📋 [visualization_report](https://github.com/hacker007S/visualization_report) | Comprehensive viz report | Python | [![Stars](https://img.shields.io/github/stars/hacker007S/visualization_report?style=flat-square&color=FFD700)](https://github.com/hacker007S/visualization_report) |
+| 📝 [My-report](https://github.com/hacker007S/My-report) | EDA & data analysis | Jupyter Notebook | [![Stars](https://img.shields.io/github/stars/hacker007S/My-report?style=flat-square&color=FFD700)](https://github.com/hacker007S/My-report) |
 
 </div>
 
