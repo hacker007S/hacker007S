@@ -29,6 +29,10 @@
 
 ```python
 #!/usr/bin/env python3
+### 📥 [Download My Resume/CV](https://drive.google.com/drive/u/0/folders/1lCMdLqvNGkGQlCQyp2kCyyDqptpLSpL-)
+
+---
+
 # ============================================================
 #  Zahoor Khan — Developer Profile
 #  CEO @ PyCode Ltd | Data Scientist | ML Engineer
