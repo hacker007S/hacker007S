@@ -188,6 +188,60 @@ print(me)
 
 </div>
 
+
+---
+
+## 💾 WakaTime Coding Stats
+
+<div align="center">
+
+  <img src="https://wakatime.com/badge/user/8d22e8b0-7b91-4b95-add9-e37b65f2a94d/total?style=for-the-badge" alt="Total WakaTime Hours"/>
+
+  **Weekly Breakdown:**
+  - 🐍 Python: ~40%
+  - - 📊 Jupyter: ~30%
+    - - 🔢 SQL: ~15%
+      - - 🛠️ Other: ~15%
+       
+        - </div>
+
+        ---
+
+        ## 📊 Technical Skills Progress
+
+        <div align="center">
+
+        ### Programming Languages
+        | Skill | Proficiency | Level |
+        |:---:|:---:|:---:|
+        | **Python** | ████████████████████ 100% | Expert |
+        | **SQL** | ███████████████░░░░░ 80% | Advanced |
+        | **Bash** | ██████████████░░░░░░ 70% | Intermediate |
+
+        ### ML & Data Science
+        | Skill | Proficiency | Level |
+        |:---:|:---:|:---:|
+        | **Machine Learning** | ███████████████████░ 95% | Expert |
+        | **Data Analysis** | ████████████████████ 100% | Expert |
+        | **Deep Learning** | █████████████░░░░░░░ 65% | Intermediate |
+        | **NLP** | ███████████░░░░░░░░░ 55% | Intermediate |
+
+        ### Data Visualization
+        | Skill | Proficiency | Level |
+        |:---:|:---:|:---:|
+        | **Matplotlib** | ███████████████████░ 95% | Expert |
+        | **Seaborn** | ██████████████████░░ 90% | Advanced |
+        | **Plotly** | █████████████░░░░░░░ 65% | Intermediate |
+
+        ### Tools & Technologies
+        | Skill | Proficiency | Level |
+        |:---:|:---:|:---:|
+        | **Jupyter Notebook** | ████████████████████ 100% | Expert |
+        | **Scikit-Learn** | ███████████████████░ 95% | Expert |
+        | **TensorFlow** | ████████████████░░░░ 80% | Advanced |
+        | **Docker** | ██████████░░░░░░░░░░ 50% | Beginner |
+
+        </div>
 ---
 
 ## 🌐 Connect with Me
