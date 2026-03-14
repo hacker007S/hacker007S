@@ -1,8 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Zahoor%20Khan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CEO%20%40%20PyCode%20Ltd%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=16&stroke=ffffff&strokeWidth=1"/>
+<!-- ANIMATED HEADER — reliable waving type -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Zahoor%20Khan&fontSize=45&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=CEO%20%40%20PyCode%20Ltd%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=17&descColor=FFFFFF"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=🚀+CEO+%40+PyCode+Ltd;🧠+AI+%26+Machine+Learning+Engineer;📊+Data+Scientist+%26+Visualization+Expert;💡+Building+the+Future+with+Python;🇬🇧+Based+in+London%2C+United+Kingdom" alt="Typing SVG" /></a>
+<!-- TYPING ANIMATION — herokuapp mirror (reliable) -->
+<a href="https://github.com/hacker007S">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=🚀+CEO+%40+PyCode+Ltd;🧠+AI+%26+Machine+Learning+Engineer;📊+Data+Scientist+%26+Visualization+Expert;💡+Building+the+Future+with+Python;🇬🇧+Based+in+London%2C+United+Kingdom" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CEO-PyCode%20Ltd-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -213,6 +217,6 @@ print(me)
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=twinkling"/>
 
 </div>
