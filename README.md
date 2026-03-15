@@ -6,20 +6,20 @@
 <!-- TYPING ANIMATION — herokuapp mirror (reliable) -->
 <a href="https://github.com/hacker007S">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=🚀+CEO+%40+PyCode+Ltd;🧠+AI+%26+Machine+Learning+Engineer;📊+Data+Scientist+%26+Visualization+Expert;💡+Building+the+Future+with+Python;🇬🇧+Based+in+London%2C+United+Kingdom" alt="Typing SVG" />
-</a>a>
+</a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CEO-PyCode%20Ltd-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     <img src="https://img.shields.io/badge/Location-London%2C%20UK-0078D4?style=for-the-badge&logo=google-maps&logoColor=white"/>
       <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00C853?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Open%20To-Collaborations-9B59B6?style=for-the-badge&logo=handshake&logoColor=white"/>
-</p>p>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hacker007S&label=Profile+Views&color=0e75b6&style=flat-square"/>
     <img src="https://img.shields.io/github/followers/hacker007S?label=Followers&style=flat-square&color=0e75b6"/>
       <img src="https://img.shields.io/github/stars/hacker007S?label=Total+Stars&style=flat-square&color=FFD700"/>
-</p>p>
+</p>
 
 </div>
 
@@ -117,11 +117,11 @@ print(me)
 <div align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=hacker007S&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF"/>
     <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker007S&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>div>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker007S&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-</div>div>
+</div>
 
 ---
 
@@ -140,8 +140,8 @@ print(me)
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake-dark.svg"/>
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake.svg"/>
         <img alt="github-snake" src="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake.svg"/>
-  </picture>picture>
-</div>div>
+  </picture>
+</div>
 
 ---
 
@@ -149,7 +149,7 @@ print(me)
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker007S&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=FF6B35&point=FFFFFF&area_color=00D9FF" alt="Activity Graph"/>
-</div>div>
+</div>
 
 ---
 
@@ -290,4 +290,4 @@ print(me)
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=twinkling"/>
 
     </div>
-  </picture>
+  
