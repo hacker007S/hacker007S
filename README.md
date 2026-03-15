@@ -6,20 +6,20 @@
 <!-- TYPING ANIMATION — herokuapp mirror (reliable) -->
 <a href="https://github.com/hacker007S">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=🚀+CEO+%40+PyCode+Ltd;🧠+AI+%26+Machine+Learning+Engineer;📊+Data+Scientist+%26+Visualization+Expert;💡+Building+the+Future+with+Python;🇬🇧+Based+in+London%2C+United+Kingdom" alt="Typing SVG" />
-</a>
+</a>a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CEO-PyCode%20Ltd-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-London%2C%20UK-0078D4?style=for-the-badge&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00C853?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20To-Collaborations-9B59B6?style=for-the-badge&logo=handshake&logoColor=white"/>
-</p>
+    <img src="https://img.shields.io/badge/Location-London%2C%20UK-0078D4?style=for-the-badge&logo=google-maps&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-00C853?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Open%20To-Collaborations-9B59B6?style=for-the-badge&logo=handshake&logoColor=white"/>
+</p>p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hacker007S&label=Profile+Views&color=0e75b6&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/hacker007S?label=Followers&style=flat-square&color=0e75b6"/>
-  <img src="https://img.shields.io/github/stars/hacker007S?label=Total+Stars&style=flat-square&color=FFD700"/>
-</p>
+    <img src="https://img.shields.io/github/followers/hacker007S?label=Followers&style=flat-square&color=0e75b6"/>
+      <img src="https://img.shields.io/github/stars/hacker007S?label=Total+Stars&style=flat-square&color=FFD700"/>
+</p>p>
 
 </div>
 
@@ -40,30 +40,30 @@
 
 class ZahoorKhan:
     def __init__(self):
-        self.name         = "Zahoor Khan"
-        self.alias        = "hacker007S"
-        self.role         = "CEO @ PyCode Ltd"
-        self.location     = "London, United Kingdom"
-        self.pronouns     = "he/him"
-        self.website      = "https://www.pycode.co.uk"
+        self.name      = "Zahoor Khan"
+        self.alias     = "hacker007S"
+        self.role      = "CEO @ PyCode Ltd"
+        self.location  = "London, United Kingdom"
+        self.pronouns  = "he/him"
+        self.website   = "https://www.pycode.co.uk"
 
     @property
     def skills(self):
         return {
-            "languages"  : ["Python", "SQL", "Bash"],
-            "ml_stack"   : ["Scikit-Learn", "TensorFlow", "PyTorch", "XGBoost"],
-            "data"       : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
-            "tools"      : ["Jupyter", "VS Code", "Git", "Docker", "Kaggle"],
-            "domains"    : ["Machine Learning", "Deep Learning", "NLP", "Data Viz"],
+            "languages" : ["Python", "SQL", "Bash"],
+            "ml_stack"  : ["Scikit-Learn", "TensorFlow", "PyTorch", "XGBoost"],
+            "data"      : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
+            "tools"     : ["Jupyter", "VS Code", "Git", "Docker", "Kaggle"],
+            "domains"   : ["Machine Learning", "Deep Learning", "NLP", "Data Viz"],
         }
 
     @property
     def currently(self):
         return {
-            "building"   : "AI-powered tools at PyCode Ltd",
-            "learning"   : "Advanced Deep Learning & LLMs",
-            "open_to"    : "Freelance, Consulting & Collabs",
-            "fun_fact"   : "I turn messy data into clean insights",
+            "building"  : "AI-powered tools at PyCode Ltd",
+            "learning"  : "Advanced Deep Learning & LLMs",
+            "open_to"   : "Freelance, Consulting & Collabs",
+            "fun_fact"  : "I turn messy data into clean insights",
         }
 
     def __str__(self):
@@ -115,23 +115,21 @@ print(me)
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=hacker007S&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker007S&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-</div>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=hacker007S&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker007S&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacker007S&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-</div>
+</div>div>
 
 ---
 
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hacker007S&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=hacker007S&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>div>
 
 ---
 
@@ -139,19 +137,19 @@ print(me)
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake.svg"/>
-  </picture>
-</div>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake-dark.svg"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake.svg"/>
+        <img alt="github-snake" src="https://raw.githubusercontent.com/hacker007S/hacker007S/output/github-snake.svg"/>
+  </picture>picture>
+</div>div>
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker007S&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=FF6B35&point=FFFFFF&area_color=00D9FF" alt="Activity Graph"/>
-</div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacker007S&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=FF6B35&point=FFFFFF&area_color=00D9FF" alt="Activity Graph"/>
+</div>div>
 
 ---
 
@@ -159,150 +157,137 @@ print(me)
 
 <div align="center">
 
-| Project | Description | Tech | Stars |
-|:--------|:------------|:-----|:------|
-| 🎓 [Final-Year-Project](https://github.com/hacker007S/Final-Year-Project) | Churn Prediction with ML | Jupyter, Scikit-Learn | [![Stars](https://img.shields.io/github/stars/hacker007S/Final-Year-Project?style=flat-square&color=FFD700)](https://github.com/hacker007S/Final-Year-Project) |
-| 📊 [InFographics-visualization](https://github.com/hacker007S/InFographics-visualization) | Advanced data infographics | Python, Matplotlib | [![Stars](https://img.shields.io/github/stars/hacker007S/InFographics-visualization?style=flat-square&color=FFD700)](https://github.com/hacker007S/InFographics-visualization) |
-| 🤖 [Clustering_report_ADS](https://github.com/hacker007S/Clustering_report_ADS) | KMeans clustering analysis | Python, Scikit-Learn | [![Stars](https://img.shields.io/github/stars/hacker007S/Clustering_report_ADS?style=flat-square&color=FFD700)](https://github.com/hacker007S/Clustering_report_ADS) |
-| 📉 [VisualizationAssignment](https://github.com/hacker007S/VisualizationAssignment) | Data visualization coursework | Python, Plotly | [![Stars](https://img.shields.io/github/stars/hacker007S/VisualizationAssignment?style=flat-square&color=FFD700)](https://github.com/hacker007S/VisualizationAssignment) |
-| 📋 [visualization_report](https://github.com/hacker007S/visualization_report) | Comprehensive viz report | Python | [![Stars](https://img.shields.io/github/stars/hacker007S/visualization_report?style=flat-square&color=FFD700)](https://github.com/hacker007S/visualization_report) |
-| 📝 [My-report](https://github.com/hacker007S/My-report) | EDA & data analysis | Jupyter Notebook | [![Stars](https://img.shields.io/github/stars/hacker007S/My-report?style=flat-square&color=FFD700)](https://github.com/hacker007S/My-report) |
+  | Project | Description | Tech | Stars |
+  |:--------|:------------|:-----|:------|
+  | 🎓 [Final-Year-Project](https://github.com/hacker007S/Final-Year-Project) | Churn Prediction with ML | Jupyter, Scikit-Learn | [![Stars](https://img.shields.io/github/stars/hacker007S/Final-Year-Project?style=flat-square&color=FFD700)](https://github.com/hacker007S/Final-Year-Project) |
+  | 📊 [InFographics-visualization](https://github.com/hacker007S/InFographics-visualization) | Advanced data infographics | Python, Matplotlib | [![Stars](https://img.shields.io/github/stars/hacker007S/InFographics-visualization?style=flat-square&color=FFD700)](https://github.com/hacker007S/InFographics-visualization) |
+  | 🤖 [Clustering_report_ADS](https://github.com/hacker007S/Clustering_report_ADS) | KMeans clustering analysis | Python, Scikit-Learn | [![Stars](https://img.shields.io/github/stars/hacker007S/Clustering_report_ADS?style=flat-square&color=FFD700)](https://github.com/hacker007S/Clustering_report_ADS) |
+  | 📉 [VisualizationAssignment](https://github.com/hacker007S/VisualizationAssignment) | Data visualization coursework | Python, Plotly | [![Stars](https://img.shields.io/github/stars/hacker007S/VisualizationAssignment?style=flat-square&color=FFD700)](https://github.com/hacker007S/VisualizationAssignment) |
+  | 📋 [visualization_report](https://github.com/hacker007S/visualization_report) | Python data visualization analysis & reporting | Python | [![Stars](https://img.shields.io/github/stars/hacker007S/visualization_report?style=flat-square&color=FFD700)](https://github.com/hacker007S/visualization_report) |
+  | 📝 [My-report](https://github.com/hacker007S/My-report) | EDA & data analysis | Jupyter Notebook | [![Stars](https://img.shields.io/github/stars/hacker007S/My-report?style=flat-square&color=FFD700)](https://github.com/hacker007S/My-report) |
 
-</div>
-
----
-
-## 💼 What I'm Building @ PyCode Ltd
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║           🏢  PyCode Ltd  |  pycode.co.uk               ║
-╠══════════════════════════════════════════════════════════╣
-║  🤖  AI-Powered Data Solutions for Businesses           ║
-║  📊  Custom Analytics & Intelligence Dashboards         ║
-║  🔬  Machine Learning Consulting & Integration          ║
-║  🐍  Python Development & Workflow Automation           ║
-║  📈  Business Intelligence & Predictive Reporting       ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-[![PyCode Website](https://img.shields.io/badge/🌐%20Visit-PyCode%20Ltd-FF6B35?style=for-the-badge&logoColor=white)](https://www.pycode.co.uk)
-
-</div>
-
-
----
-
-## 💾 WakaTime Coding Stats
-
-<div align="center">
-
-  <img src="https://wakatime.com/badge/user/8d22e8b0-7b91-4b95-add9-e37b65f2a94d/total?style=for-the-badge" alt="Total WakaTime Hours"/>
-
-**Weekly Breakdown:**
-
-| Language | Percentage |
-|----------|-----------|
-| 🐍 Python | ~40% |
-| 📊 Jupyter | ~30% |
-| 🔢 SQL | ~15% |
-| 🛠️ Other | ~15% |
-
-
-        - </div>
-
-        ---
-
-        ## 📊 Technical Skills Progress
-
-        <div align="center">
-
-        ### Programming Languages
-        | Skill | Proficiency | Level |
-        |:---:|:---:|:---:|
-        | **Python** | ████████████████████ 100% | Expert |
-        | **SQL** | ███████████████░░░░░ 80% | Advanced |
-        | **Bash** | ██████████████░░░░░░ 70% | Intermediate |
-
-        ### ML & Data Science
-        | Skill | Proficiency | Level |
-        |:---:|:---:|:---:|
-        | **Machine Learning** | ███████████████████░ 95% | Expert |
-        | **Data Analysis** | ████████████████████ 100% | Expert |
-        | **Deep Learning** | █████████████░░░░░░░ 65% | Intermediate |
-        | **NLP** | ███████████░░░░░░░░░ 55% | Intermediate |
-
-        ### Data Visualization
-        | Skill | Proficiency | Level |
-        |:---:|:---:|:---:|
-        | **Matplotlib** | ███████████████████░ 95% | Expert |
-        | **Seaborn** | ██████████████████░░ 90% | Advanced |
-        | **Plotly** | █████████████░░░░░░░ 65% | Intermediate |
-
-        ### Tools & Technologies
-        | Skill | Proficiency | Level |
-        |:---:|:---:|:---:|
-        | **Jupyter Notebook** | ████████████████████ 100% | Expert |
-        | **Scikit-Learn** | ███████████████████░ 95% | Expert |
-        | **TensorFlow** | ████████████████░░░░ 80% | Advanced |
-        | **Docker** | ██████████░░░░░░░░░░ 50% | Beginner |
-
-        </div>
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-  
-  ### Professional Certifications
-  
-  | Certification | Issuer | Date |
-  |---------------|--------|------|
-  | 🤖 **ChatGPT & Generative AI** | OpenAI / Professional Course | Jan 2025 |
-  | 🎨 **Stable Diffusion AI Image Generation** | Professional Training | Jan 2025 |
-  | 🖼️ **Advanced Computer Vision & Photography** | Professional Course | Nov 2024 |
-  | 📚 **Machine Learning & Data Science** | Udacity / Online Platform | May 2020 |
-  
-  ### Skills Demonstrated
-  ✅ Artificial Intelligence & Machine Learning  
-  ✅ Generative AI Models (ChatGPT, Stable Diffusion)  
-  ✅ Computer Vision & Image Processing  
-  ✅ Advanced Data Science & Analytics  
-  ✅ Python & Full ML Stack  
-  
   </div>
-  
+
   ---
-  
-  [![Website](https://img.shields.io/badge/PyCode.co.uk-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pycode.co.uk)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/z.khan301)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khanzahoor301)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacker007S)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-[![Email](https://img.shields.io/badge/Email%20PyCode-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahoor@pycode.co.uk)
 
-</div>
+  ## 💼 What I'm Building @ PyCode Ltd
 
----
+  <div align="center">
 
-<div align="center">
+    ```
+    ╔══════════════════════════════════════════════════════════╗
+    ║  🏢  PyCode Ltd  |  pycode.co.uk                        ║
+    ╠══════════════════════════════════════════════════════════╣
+    ║  🤖  AI-Powered Data Solutions for Businesses            ║
+    ║  📊  Custom Analytics & Intelligence Dashboards          ║
+    ║  🔬  Machine Learning Consulting & Integration           ║
+    ║  🐍  Python Development & Workflow Automation            ║
+    ║  📈  Business Intelligence & Predictive Reporting        ║
+    ╚══════════════════════════════════════════════════════════╝
+    ```
 
-### 💡 Quote I Live By
+    [![PyCode Website](https://img.shields.io/badge/🌐%20Visit-PyCode%20Ltd-FF6B35?style=for-the-badge&logoColor=white)](https://www.pycode.co.uk)
 
-> *"Data is the new oil — but Python is the refinery."*
+    </div>
 
-<br/>
+    ---
 
-<img src="https://komarev.com/ghpvc/?username=hacker007S&label=Profile+Views&color=FF6B35&style=for-the-badge" alt="Profile Views"/>
+    ## 📊 Technical Skills Progress
 
-<br/><br/>
+    <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=twinkling"/>
+    ### Programming Languages
 
-</div>
+    | Skill | Proficiency | Level |
+    |:---:|:---:|:---:|
+    | **Python** | ████████████████████ 100% | Expert |
+    | **SQL** | ███████████████░░░░░ 80% | Advanced |
+    | **Bash** | ██████████████░░░░░░ 70% | Intermediate |
+
+    ### ML & Data Science
+
+    | Skill | Proficiency | Level |
+    |:---:|:---:|:---:|
+    | **Machine Learning** | ███████████████████░ 95% | Expert |
+    | **Data Analysis** | ████████████████████ 100% | Expert |
+    | **Deep Learning** | █████████████░░░░░░░ 65% | Intermediate |
+    | **NLP** | ███████████░░░░░░░░░ 55% | Intermediate |
+
+    ### Data Visualization
+
+    | Skill | Proficiency | Level |
+    |:---:|:---:|:---:|
+    | **Matplotlib** | ███████████████████░ 95% | Expert |
+    | **Seaborn** | ██████████████████░░ 90% | Advanced |
+    | **Plotly** | █████████████░░░░░░░ 65% | Intermediate |
+
+    ### Tools & Technologies
+
+    | Skill | Proficiency | Level |
+    |:---:|:---:|:---:|
+    | **Jupyter Notebook** | ████████████████████ 100% | Expert |
+    | **Scikit-Learn** | ███████████████████░ 95% | Expert |
+    | **TensorFlow** | ████████████████░░░░ 80% | Advanced |
+    | **Docker** | ██████████░░░░░░░░░░ 50% | Beginner |
+
+    </div>
+
+    ---
+
+    ## 🎓 Certifications & Achievements
+
+    <div align="center">
+
+    ### Professional Certifications
+
+    | Certification | Issuer | Date |
+    |---------------|--------|------|
+    | 🤖 **ChatGPT & Generative AI** | OpenAI / Professional Course | Jan 2025 |
+    | 🎨 **Stable Diffusion AI Image Generation** | Professional Training | Jan 2025 |
+    | 🖼️ **Advanced Computer Vision & Photography** | Professional Course | Nov 2024 |
+    | 📚 **Machine Learning & Data Science** | Udacity / Online Platform | May 2020 |
+
+    ### Skills Demonstrated
+
+    ✅ Artificial Intelligence & Machine Learning  
+    ✅ Generative AI Models (ChatGPT, Stable Diffusion)  
+    ✅ Computer Vision & Image Processing  
+    ✅ Advanced Data Science & Analytics  
+    ✅ Python & Full ML Stack  
+
+    </div>
+
+    ---
+
+    ## 🌐 Connect with Me
+
+    <div align="center">
+
+    [![Website](https://img.shields.io/badge/PyCode.co.uk-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pycode.co.uk)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahoor-khan)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/z.khan301)
+    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khanzahoor301)
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacker007S)
+    [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+    [![Email](https://img.shields.io/badge/Email%20PyCode-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahoor@pycode.co.uk)
+
+    </div>
+
+    ---
+
+    <div align="center">
+
+    ### 💡 Quote I Live By
+
+    > *"Data is the new oil — but Python is the refinery."*
+
+    <br/>
+
+    <img src="https://komarev.com/ghpvc/?username=hacker007S&label=Profile+Views&color=FF6B35&style=for-the-badge" alt="Profile Views"/>
+
+    <br/><br/>
+
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=twinkling"/>
+
+    </div>
+  </picture>
