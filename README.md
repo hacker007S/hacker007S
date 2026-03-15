@@ -172,122 +172,135 @@ print(me)
 
   ## 💼 What I'm Building @ PyCode Ltd
 
-  <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=200&section=header&text=Zahoor%20Khan&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Python&descSize=18&descColor=FF6B35&descAlignY=55"/>
 
-    ```
-    ╔══════════════════════════════════════════════════════════╗
-    ║  🏢  PyCode Ltd  |  pycode.co.uk                        ║
-    ╠══════════════════════════════════════════════════════════╣
-    ║  🤖  AI-Powered Data Solutions for Businesses            ║
-    ║  📊  Custom Analytics & Intelligence Dashboards          ║
-    ║  🔬  Machine Learning Consulting & Integration           ║
-    ║  🐍  Python Development & Workflow Automation            ║
-    ║  📈  Business Intelligence & Predictive Reporting        ║
-    ╚══════════════════════════════════════════════════════════╝
-    ```
+<div align="center">
 
-    [![PyCode Website](https://img.shields.io/badge/🌐%20Visit-PyCode%20Ltd-FF6B35?style=for-the-badge&logoColor=white)](https://www.pycode.co.uk)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Founder+%40+PyCode+Ltd;AI-Powered+Data+Solutions;Machine+Learning+%26+Analytics+Expert;Python+Developer+%26+Consultant)](https://git.io/typing-svg)
 
-    </div>
+</div>
 
-    ---
+---
 
-    ## 📊 Technical Skills Progress
+<div align="center">
 
-    <div align="center">
+<table>
+<tr>
+<td align="center" width="600">
 
-    ### Programming Languages
+### 🏢 PyCode Ltd | pycode.co.uk
 
-    | Skill | Proficiency | Level |
-    |:---:|:---:|:---:|
-    | **Python** | ████████████████████ 100% | Expert |
-    | **SQL** | ███████████████░░░░░ 80% | Advanced |
-    | **Bash** | ██████████████░░░░░░ 70% | Intermediate |
+🤖 AI-Powered Data Solutions for Businesses
+📊 Custom Analytics & Intelligence Dashboards
+🔬 Machine Learning Consulting & Integration
+🐍 Python Development & Workflow Automation
+📈 Business Intelligence & Predictive Reporting
 
-    ### ML & Data Science
+[![Website](https://img.shields.io/badge/🌐%20Visit-PyCode%20Ltd-FF6B35?style=for-the-badge&logoColor=white)](https://www.pycode.co.uk)
 
-    | Skill | Proficiency | Level |
-    |:---:|:---:|:---:|
-    | **Machine Learning** | ███████████████████░ 95% | Expert |
-    | **Data Analysis** | ████████████████████ 100% | Expert |
-    | **Deep Learning** | █████████████░░░░░░░ 65% | Intermediate |
-    | **NLP** | ███████████░░░░░░░░░ 55% | Intermediate |
+</td>
+</tr>
+</table>
 
-    ### Data Visualization
+</div>
 
-    | Skill | Proficiency | Level |
-    |:---:|:---:|:---:|
-    | **Matplotlib** | ███████████████████░ 95% | Expert |
-    | **Seaborn** | ██████████████████░░ 90% | Advanced |
-    | **Plotly** | █████████████░░░░░░░ 65% | Intermediate |
+---
 
-    ### Tools & Technologies
+## 📊 Technical Skills Progress
 
-    | Skill | Proficiency | Level |
-    |:---:|:---:|:---:|
-    | **Jupyter Notebook** | ████████████████████ 100% | Expert |
-    | **Scikit-Learn** | ███████████████████░ 95% | Expert |
-    | **TensorFlow** | ████████████████░░░░ 80% | Advanced |
-    | **Docker** | ██████████░░░░░░░░░░ 50% | Beginner |
+<div align="center">
 
-    </div>
+### Programming Languages
 
-    ---
+| Skill | Proficiency | Level |
+|:---:|:---:|:---:|
+| **Python** | ████████████████████ 100% | Expert |
+| **SQL** | ████████████████░░░░ 80% | Advanced |
+| **Bash** | ██████████████░░░░░░ 70% | Intermediate |
 
-    ## 🎓 Certifications & Achievements
+### ML & Data Science
 
-    <div align="center">
+| Skill | Proficiency | Level |
+|:---:|:---:|:---:|
+| **Machine Learning** | ███████████████████░ 95% | Expert |
+| **Data Analysis** | ████████████████████ 100% | Expert |
+| **Deep Learning** | █████████████░░░░░░░ 65% | Intermediate |
+| **NLP** | ███████████░░░░░░░░░ 55% | Intermediate |
 
-    ### Professional Certifications
+### Data Visualization
 
-    | Certification | Issuer | Date |
-    |---------------|--------|------|
-    | 🤖 **ChatGPT & Generative AI** | OpenAI / Professional Course | Jan 2025 |
-    | 🎨 **Stable Diffusion AI Image Generation** | Professional Training | Jan 2025 |
-    | 🖼️ **Advanced Computer Vision & Photography** | Professional Course | Nov 2024 |
-    | 📚 **Machine Learning & Data Science** | Udacity / Online Platform | May 2020 |
+| Skill | Proficiency | Level |
+|:---:|:---:|:---:|
+| **Matplotlib** | ███████████████████░ 95% | Expert |
+| **Seaborn** | ██████████████████░░ 90% | Advanced |
+| **Plotly** | █████████████░░░░░░░ 65% | Intermediate |
 
-    ### Skills Demonstrated
+### Tools & Technologies
 
-    ✅ Artificial Intelligence & Machine Learning  
-    ✅ Generative AI Models (ChatGPT, Stable Diffusion)  
-    ✅ Computer Vision & Image Processing  
-    ✅ Advanced Data Science & Analytics  
-    ✅ Python & Full ML Stack  
+| Skill | Proficiency | Level |
+|:---:|:---:|:---:|
+| **Jupyter Notebook** | ████████████████████ 100% | Expert |
+| **Scikit-Learn** | ███████████████████░ 95% | Expert |
+| **TensorFlow** | ████████████████░░░░ 80% | Advanced |
+| **Docker** | ██████████░░░░░░░░░░ 50% | Beginner |
 
-    </div>
+</div>
 
-    ---
+---
 
-    ## 🌐 Connect with Me
+## 🎓 Certifications & Achievements
 
-    <div align="center">
+<div align="center">
 
-    [![Website](https://img.shields.io/badge/PyCode.co.uk-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pycode.co.uk)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahoor-khan)
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/z.khan301)
-    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khanzahoor301)
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacker007S)
-    [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-    [![Email](https://img.shields.io/badge/Email%20PyCode-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahoor@pycode.co.uk)
+### Professional Certifications
 
-    </div>
+| Certification | Issuer | Date |
+|:---:|:---:|:---:|
+| 🤖 **ChatGPT & Generative AI** | OpenAI / Professional Course | Jan 2025 |
+| 🎨 **Stable Diffusion AI Image Generation** | Professional Training | Jan 2025 |
+| 🖼️ **Advanced Computer Vision & Photography** | Professional Course | Nov 2024 |
+| 📚 **Machine Learning & Data Science** | Udacity / Online Platform | May 2020 |
 
-    ---
+### Skills Demonstrated
 
-    <div align="center">
+✅ Artificial Intelligence & Machine Learning
+✅ Generative AI Models (ChatGPT, Stable Diffusion)
+✅ Computer Vision & Image Processing
+✅ Advanced Data Science & Analytics
+✅ Python & Full ML Stack
 
-    ### 💡 Quote I Live By
+</div>
 
-    > *"Data is the new oil — but Python is the refinery."*
+---
 
-    <br/>
+## 🌐 Connect with Me
 
-    <img src="https://komarev.com/ghpvc/?username=hacker007S&label=Profile+Views&color=FF6B35&style=for-the-badge" alt="Profile Views"/>
+<div align="center">
 
-    <br/><br/>
+[![Website](https://img.shields.io/badge/PyCode.co.uk-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pycode.co.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahoor-khan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/z.khan301)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/khanzahoor301)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacker007S)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![Email](https://img.shields.io/badge/Email%20PyCode-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahoor@pycode.co.uk)
 
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=twinkling"/>
+</div>
 
-    </div>
+---
+
+<div align="center">
+
+### 💡 Quote I Live By
+
+> *"Data is the new oil — but Python is the refinery."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hacker007S&label=Profile+Views&color=FF6B35&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=twinkling"/>
+
   
